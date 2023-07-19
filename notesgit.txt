@@ -1,3 +1,0 @@
-create github account
-create pull request for multiple branches
-https://www.w3schools.com/git/git_exercises.asp?remote=github
