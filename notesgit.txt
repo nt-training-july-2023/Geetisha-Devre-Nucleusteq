@@ -1,3 +1,13 @@
 create github account
 create pull request for multiple branches
 https://www.w3schools.com/git/git_exercises.asp?remote=github
+
+
+//basics of java
+remove static from program to see what happens
+what happens when filename is different from classname
+prgram  to declare initialize modify primitive data types
+
+
+//1.18 tak lec 15os
+//1.39 se os lecture 14
