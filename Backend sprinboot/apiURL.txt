@@ -1,0 +1,31 @@
+getAll API:http:   //localhost:8080/api/employeee/listEmployees
+
+get specific record :
+http://localhost:8080/api/employeee/listEmployees/id
+
+insert Record:
+
+http://localhost:8080/api/employeee/insertRecord
+
+payload:
+
+{ 
+    
+    "empName" :"amla",
+    "role":"developer"
+    
+}
+
+update record:  //localhost:8080/api/employeee/update/id
+
+payload:
+
+
+{ 
+    "id"://id to update in long format
+    "empName" :"amla",
+    "role":"developer"
+    
+}
+
+delete record:http: //localhost:8080/api/employeee/id
